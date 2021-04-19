@@ -4,3 +4,5 @@ IDesign-Resolusi
 - Membuat Web openshop
 - Membuat web pembejaran berbayar
 - Membuat web Grup Khusus
+
+Mulailah secepatnya
